@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{ED6D7E8F-1B3A-4CD8-8CD9-C55A54C24DF8}|Default">
+  <MonoDevelop.Ide.ItemProperties.WordsAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/WordController.cs">
+    <Files>
+      <File FileName="Controllers/WordssController.cs" Line="26" Column="34" />
+      <File FileName="Models/Author.cs" Line="13" Column="1" />
+      <File FileName="Models/Word.cs" Line="18" Column="10" />
+      <File FileName="Controllers/WordController.cs" Line="28" Column="40" />
+      <File FileName="Controllers/AuthorsController.cs" Line="62" Column="14" />
+      <File FileName="Data/WordRepo.cs" Line="40" Column="26" />
+      <File FileName="Startup.cs" Line="34" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WordsAPI" expanded="True">
+            <Node name="WordsAPI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="WordController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
